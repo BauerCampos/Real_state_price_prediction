@@ -72,11 +72,11 @@ This method preserve the cyclic nature of months while maintaining the proportio
 
 ## 🤖 Algorithms
 - [Decision Tree](realestate/decision_tree)
-- [Random Forest](realstate/random_forest)
-- [SVM](realstate/SVM)
-- [Neural Network](realstate/neural_network)
-- [Linear Regression](realstate/linear_regression)
-- [Polinomial Regression](realstate/polynomial_regression)
+- [Random Forest](realestate/random_forest)
+- [SVM](realestate/SVM)
+- [Neural Network](realestate/neural_network)
+- [Linear Regression](realestate/linear_regression)
+- [Polinomial Regression](realestate/polynomial_regression)
 
 ## 📈 Results
 **Performance Comparison:**
