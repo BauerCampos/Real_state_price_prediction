@@ -65,11 +65,6 @@ The selected approach was to transform the date into three features:
 
 This method preserve the cyclic nature of months while maintaining the proportional relationships between months, the method was intentionally omitted for days of the month. Analysis of the dataset confirmed the theoretical expectation that real estate transaction timing within a month is random and shows no correlation with purchase price.
 
-### Additional Preprocessing Steps
-- **Feature Scaling**: [Mention normalization/standardization if applied]
-- **Categorical Variables**: [Explain encoding method used]
-- **Outlier Treatment**: [Describe if you handled outliers in price or features]
-
 ## 🤖 Algorithms
 - [Decision Tree](realestate/decision_tree)
 - [Random Forest](realestate/random_forest)
