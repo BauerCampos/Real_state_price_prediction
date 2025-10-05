@@ -89,4 +89,9 @@ This method preserve the cyclic nature of months while maintaining the proportio
 
 ## 🔧 Future Improvements
 **Ensemble or MoE**
-During database analysis was noted different types of relationship between features and the target variable which motivated testing algorythms on a few selected features (eg using latitude and longitude on a KNN algorithm to create an aritficial map to detect average price based on location)
+Initial database analysis revealed distinct feature relationship patterns with the target variable, motivating algorithm testing on strategic feature subsets. For instance:
+
+- Using latitude and longitude with KNN to create a spatial price map
+- Applying linear regression to features with direct proportionality to the target
+
+These specialized approaches demonstrated exceptional performance, achieving 65-74% precision with minimal computational overhead. Implementing these techniques within a Mixture of Experts (MoE) architecture could potentially yield higher overall precision while reducing training time and computational costs by allowing each expert model to specialize in its most effective domain.
