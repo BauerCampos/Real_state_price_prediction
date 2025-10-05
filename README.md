@@ -71,12 +71,12 @@ This method preserve the cyclic nature of months while maintaining the proportio
 - **Outlier Treatment**: [Describe if you handled outliers in price or features]
 
 ## 🤖 Algorithms
-- [Decision Tree](/realstate/decision_tree)
-- [Random Forest](/realstate/random_forest)
-- [SVM](/realstate/SVM)
-- [Neural Network](/realstate/neural_network)
-- [Linear Regression](/realstate/linear_regression)
-- [Polinomial Regression](/realstate/polynomial_regression)
+- [Decision Tree](realestate/decision_tree)
+- [Random Forest](realstate/random_forest)
+- [SVM](realstate/SVM)
+- [Neural Network](realstate/neural_network)
+- [Linear Regression](realstate/linear_regression)
+- [Polinomial Regression](realstate/polynomial_regression)
 
 ## 📈 Results
 **Performance Comparison:**
