@@ -63,7 +63,7 @@ The selected approach was to transform the date into three features:
 - **Month (sine)** 
 - **Month (cosine)**
 
-This method preserve the cyclic nature of months while maintaining the proportional relationships between months, the method was intentionally omitted for days of the month. Analysis of the dataset confirmed the theoretical expectation that real estate transaction timing within a month is random and shows no correlation with purchase price.
+This method preserve the cyclic nature of months while maintaining the proportional relationships between months, the method was intentionally omitted for days of the month. Analysis of the dataset confirmed the theoretical expectation that timing within a month is random and shows no correlation with purchase price.
 
 ## 🤖 Algorithms
 - [Decision Tree](realestate/decision_tree)
